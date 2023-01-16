@@ -75,7 +75,7 @@ After installation of all the above packages, run mysql -u root (with -p at the 
 
 ## Mock-Up
 
-![Untitled_ Jan 15, 2023 9_30 PM](https://user-images.githubusercontent.com/114205917/212606032-ce1d1c29-d3b5-4c94-ae89-d160c4fa5fd9.gif)
+<img width="807" alt="Screen Shot 2023-01-15 at 9 51 54 PM" src="https://user-images.githubusercontent.com/114205917/212607622-759b470c-fb80-45c0-9405-f0f6b5276db4.png">
 
 ## Walkthrough Video
 
