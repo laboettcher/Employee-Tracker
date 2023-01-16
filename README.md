@@ -17,7 +17,7 @@ Employee Tracker is a command-line application that is similar to a content mana
 
 * [Mock-Up](#mock-up)
 
-* [DeployedApplication](#deployed-application)
+* [WalkthroughVideo](#walkthrough-video)
 
 * [License](#license)
 
@@ -75,11 +75,29 @@ After installation of all the above packages, run mysql -u root (with -p at the 
 
 ## Mock-Up
 
+![Untitled_ Jan 15, 2023 9_30 PM](https://user-images.githubusercontent.com/114205917/212606032-ce1d1c29-d3b5-4c94-ae89-d160c4fa5fd9.gif)
 
-## Deployed Application
+## Walkthrough Video
 
+You can access the drive link here: [EmployeeTracker](https://drive.google.com/file/d/1GMJVDQHlgwvVnqbJrAEskMD-5A2-F87J/view)
 
 ## License 
  MIT 
 
 ## References
+
+* [GeeksForGeeks](https://www.geeksforgeeks.org/why-we-use-then-method-in-javascript/)
+
+* [MySqlTutorial](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
+
+* [Npm](https://www.npmjs.com/package/nodemon)
+
+* [Npm2](https://www.npmjs.com/package/mysql)
+
+* [Npm3](https://www.npmjs.com/package/console.table)
+
+* [PatorJk](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Employee%20Tracker)
+
+* [Rollbar](https://rollbar.com/blog/how-to-handle-uncaught-typerror-x-is-not-a-function/)
+
+* [TutorialsPoint](https://www.tutorialspoint.com/how-to-get-the-seed-value-of-an-identity-column-in-mysql)
