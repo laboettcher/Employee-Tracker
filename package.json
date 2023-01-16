@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.0.0",
+    "nodemon": "^2.0.20",
+    "validator": "^13.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
